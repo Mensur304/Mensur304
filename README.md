@@ -1,6 +1,6 @@
 👋🏾   Hi, and welcome to my GitHub repository! 👋🏾
 
-I'm Mensur Ahemed, a Data Analyst @ iSphere.
+I'm Mensur Ahemed, a Data Analyst @ Blue Cross Blue Shield of Texas.
 
 Thanks for visiting my portfolio for technical audiences here on GitHub!
 
